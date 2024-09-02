@@ -77,7 +77,7 @@ We welcome contributions to Fobrain! To get started, fork the repository and sub
 
 ## License
 
-Fobrain is distributed under the [Apache License 2.0](LICENSE).
+Fobrain is distributed under the [Apache License 2.0](LICENSE). All copyrights and privileges related to this software belong solely to the [developer](https://github.com/igweze/).
 
 ## Credits
 
