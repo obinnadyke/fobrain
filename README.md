@@ -13,7 +13,7 @@ Fobrain is a flexible and powerful open-source school management application des
 ## Key Features
 
 - **Unlimited Student, Staff, and Course Management**: Handle an infinite number of students, staff members, and courses.
-- **K12 Module**: Supports dedicated modules for Nursery, Primary, and Secondary and Higher educational institutions.
+- **K12 Module**: Supports dedicated modules for Nursery, Primary, and Secondary educational institutions.
 - **Automated Academic Processes**:
   - Grade computation
   - Transcripts
