@@ -7,8 +7,8 @@ Fobrain is a flexible and powerful open-source school management application des
 ## Why Choose Fobrain?
 
 - **Scalable and Customizable**: Fobrain can be tailored to fit the unique needs of Universities, Polytechnics, Colleges, High Schools, Elementary educational establishments, and more.
-- **Global Reach**: Available in widely used English language, making it adaptable for schools across the globe.
-- **Mobile-Responsive Design**: Fully responsive on web, mobile, and tablet devices, ensuring seamless access anytime, anywhere.
+- **Global Reach**: Being online and available in widely used English language makes Fobrain easily accessible and adaptable for schools across the globe.
+- **Mobile-Responsive Design**: Fobrain is fully responsive on web, mobile, and tablet devices, ensuring seamless access anytime, anywhere across platforms (PC, IOS and Android). 
 
 ## Key Features
 
