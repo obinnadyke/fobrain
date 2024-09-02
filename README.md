@@ -1,4 +1,4 @@
-# Fobrain: 
+# Fobrain 
 
 **A Comprehensive and Customizable School Management Solution**
 
@@ -6,14 +6,14 @@ Fobrain is a flexible and powerful open-source school management application des
 
 ## Why Choose Fobrain?
 
-- **Scalable and Customizable**: Tailor Fobrain to fit the unique needs of Universities, Polytechnics, Colleges of Education, and more.
-- **Global Reach**: Supports over 100+ language translations, making it adaptable for schools across the globe.
+- **Scalable and Customizable**: Fobrain can be tailored to fit the unique needs of Universities, Polytechnics, Colleges, High Schools, Elementary educational establishments, and more.
+- **Global Reach**: Available in widely used English language, making it adaptable for schools across the globe.
 - **Mobile-Responsive Design**: Fully responsive on web, mobile, and tablet devices, ensuring seamless access anytime, anywhere.
 
 ## Key Features
 
 - **Unlimited Student, Staff, and Course Management**: Handle an infinite number of students, staff members, and courses.
-- **K12 Module**: Dedicated modules for Nursery, Primary, and Secondary schools.
+- **K12 Module**: Supports dedicated modules for Nursery, Primary, and Secondary and Higher educational institutions.
 - **Automated Academic Processes**:
   - Grade computation
   - Transcripts
@@ -81,7 +81,7 @@ Fobrain is released under the [Apache License 2.0](LICENSE).
 
 ## Credits
 
-Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/wizgrade). Email: igweze@gmail.com
+Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/wizgrade). Contact: igweze@gmail.com
 
 
 ---
