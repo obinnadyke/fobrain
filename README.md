@@ -75,14 +75,13 @@ To get started with Fobrain, follow these steps:
 
 We welcome contributions to Fobrain! To get started, fork the repository and submit a pull request. Please ensure you follow the contribution guidelines.
 
-## License
-
-Fobrain is distributed under the [Apache License 2.0](LICENSE). All copyrights and privileges related to this software belong solely to the [developer](https://github.com/igweze/).
-
 ## Credits
 
 Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/), with promotional support from [itrustal.com](https://www.itrustal.com). For business inquiries, please email: contact@itrustal.com
 
+## License
+
+Fobrain is distributed under the [Apache License 2.0](LICENSE). All copyrights and privileges related to this software belong solely to the [developer](https://github.com/igweze/).
 
 ---
 
