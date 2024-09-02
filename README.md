@@ -73,7 +73,7 @@ To get started with Fobrain, follow these steps:
 
 ## Contributing
 
-To contribute to Fobrain, please fork the repository and submit a pull request. Make sure to follow our contribution guidelines.
+To contribute to Fobrain, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines.
 
 ## License
 
