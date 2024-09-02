@@ -69,7 +69,7 @@ To get started with Fobrain, follow these steps:
 - Ensure you are using PHP version greater than 5.0 but below 7.0.8 for compatibility. Work is ongoing to support the latest PHP versions soon. 
 
 ## Support
-- If you encounter any issues during installation or runtime, please refer to the [GitHub issue tracker](https://github.com/igweze/wizgrade/issues) for help or open a new issue.
+- If you encounter any issues during installation or runtime, please refer to the [GitHub issue tracker](https://github.com/igweze/wizgrade/issues) for help or to open a new issue. Contact: igweze@gmail.com
 
 ## Contributing
 
@@ -81,7 +81,7 @@ Fobrain is released under the [Apache License 2.0](LICENSE).
 
 ## Credits
 
-Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/wizgrade). Contact: igweze@gmail.com
+Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/wizgrade).
 
 
 ---
