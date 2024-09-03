@@ -1,6 +1,8 @@
 # Fobrain 
 
-**A Comprehensive and Customizable School Management Solution**
+**A Comprehensive and Customizable School Management Solution** 
+
+---
 
 Fobrain is a flexible and powerful open-source school management application designed to streamline and automate educational processes for institutions worldwide. With a robust set of interesting features, Fobrain offers a free version with essential tools and a premium (paid) version that unlocks advanced capabilities.
 
@@ -69,7 +71,7 @@ To get started with Fobrain, follow these steps:
 - Ensure you are using PHP version greater than 5.0 but below 7.0.8 for compatibility. Work is ongoing to support the latest PHP versions soon. 
 
 ## Support
-- If you encounter any issues during installation or runtime, please refer to the [GitHub issue tracker](https://github.com/igweze/wizgrade/issues) for assistance or to report a new issue. For further support, you can reach out to the developer at: igweze@gmail.com.
+- If you encounter any issues during installation or runtime, please refer to the [GitHub issue tracker](https://github.com/igweze/wizgrade/issues) for assistance or to report a new issue. For further support, you can reach out to the developer directly at: igweze@gmail.com.
 
 ## Contributing
 
@@ -77,7 +79,7 @@ We welcome contributions to Fobrain! To get started, fork the repository and sub
 
 ## Credits
 
-Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/), with promotional support from [itrustal.com](https://www.itrustal.com). For business inquiries, please email: contact@itrustal.com or obinnadyke@gmail.com.
+Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/), with promotional support from the [itrustal.com](https://www.itrustal.com) team. For business inquiries, please email us at: contact@itrustal.com or obinnadyke@gmail.com.
 
 ## License
 
