@@ -83,7 +83,7 @@ Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](ht
 
 ## License
 
-Fobrain is distributed under the [Apache License 2.0](LICENSE). All copyrights and privileges related to this software belong solely to the [developer](https://github.com/igweze/).
+This repository is released under the [Apache License 2.0](LICENSE). All copyrights and privileges belong solely to the [developer](https://github.com/igweze/).
 
 ---
 
