@@ -81,7 +81,7 @@ We welcome contributions to Fobrain! To get started, fork the repository and sub
 
 ## Credits
 
-Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/), with promotional support from the [itrustal.com](https://www.itrustal.com) team. For business inquiries, please email us at: contact@itrustal.com or obinnadyke@gmail.com.
+Fobrain is proudly designed, developed, and maintained by [Mark Ebele Igweze](https://github.com/igweze/), with promotional support from the [itrustal.com](https://www.itrustal.com) team. For business inquiries, please email contact@itrustal.com or obinnadyke@gmail.com.
 
 ## License
 
