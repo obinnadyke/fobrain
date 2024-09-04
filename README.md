@@ -64,7 +64,9 @@ To get started with Fobrain, follow these steps:
 
 4. Configure your database connection in the `config.php` file.
 
-5. Launch the application in your preferred server environment (e.g., Apache, Nginx). 
+5. Launch the application in your preferred server environment (e.g., Apache, Nginx). Enter root address in browser, it will automatically prompt for installation. Follow the installation steps.
+
+6. After successful installation, login as admin. 
 
 ### Installation Notes
 
