@@ -77,7 +77,7 @@ To get started with Fobrain, follow these steps:
 
 ## Contributing
 
-We welcome contributions to Fobrain! To get started, fork the repository and submit a pull request. Please ensure you follow the [contribution guidelines](https://github.com/github/docs/blob/4965bc594cd4e9ee77d6bced0933c7dd3b8832b7/.github/CONTRIBUTING.md).
+We welcome contributions to Fobrain! To get started, fork the repository and submit a pull request. Ensure to follow [contribution guidelines](https://github.com/github/docs/blob/4965bc594cd4e9ee77d6bced0933c7dd3b8832b7/.github/CONTRIBUTING.md).
 
 ## Credits
 
